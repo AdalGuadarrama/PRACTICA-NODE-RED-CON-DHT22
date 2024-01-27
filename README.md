@@ -46,7 +46,7 @@ Para la siguiente practica necesitaremos:
   
   ##### RESULTADO
   * Visualizamos la interfaz y podremos manilular nuestro resltulados con el programa WOKWI.
-  * Podras observar los valores dentro del monitor serial y la interfaz como se muestra en las siguentes imagenes.
+  * Podras observar los valores dentro del monitor serial y la interfaz como se muestra.
   ![.](https://github.com/AdalGuadarrama/PRACTICA-NODE-RED-CON-DHT22/blob/main/s15.png)
 
   ##### CREDITOS
